@@ -1,0 +1,25 @@
+_repo: Appropriate-Clothes-for-the-High-School-Girl_37007
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Alexander, Virginia M.
+    gutenberg_agent_id: '38590'
+    url: http://www.gutenberg.org/2009/agents/38590
+description: ''
+gutenberg_issued: '2011-08-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37007'
+  lccn: '24014861'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Clothing and dress'
+- !lcc 'TX'
+title: Appropriate Clothes for the High School Girl
+url: http://www.gutenberg.org/ebooks/37007
